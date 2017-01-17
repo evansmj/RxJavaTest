@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RxJava1</string>
+    <string name="console">Console:</string>
+</resources>
